@@ -1,4 +1,5 @@
 [
-  { "name": "YouTubeTV.apk", "url": "https://github.com/quantv25/apk-tv/releases/download/v1/YouTubeTV.apk" },
-  { "name": "VLC.apk",       "url": "https://github.com/quantv25/apk-tv/releases/download/v1/VLC.apk" }
+  { "name": "YouTube.No.Qc.1.0.3.apk", "url": "https://github.com/quantv25/quantv25-apk-tv/releases/download/V1.0.3/YouTube.No.Qc.1.0.3.apk" },
+  { "name": "rophim-android-tv.apk",  "url": "https://github.com/quantv25/quantv25-apk-tv/releases/download/V2.0/rophim-android-tv.apk" },
+  { "name": "SportsTV_5.1.1.apk",  "url": "https://github.com/quantv25/quantv25-apk-tv/releases/download/V5.1.1/SportsTV_5.1.1.apk },
 ]
