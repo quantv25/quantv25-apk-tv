@@ -4,4 +4,5 @@
   { "name": "SportsTV_5.1.1.apk",  "url": "https://github.com/quantv25/quantv25-apk-tv/releases/download/V5.1.1/SportsTV_5.1.1.apk" },
   { "name": "TruyenHinh_Final.apk",  "url": "https://git.vsptv.com/quantv/qtv-update/releases/download/V1.5/TruyenHinh_Final.apk" },
   { "name": "supper-voice-2.4.1.apk",  "url": "https://github.com/quantv25/quantv25-apk-tv/releases/download/V2.4.1/supper-voice-2.4.1.apk" },
+  { "name": "ttvstore-3.0.apk",  "url": "https://git.vsptv.com/quantv/store-apk/raw/branch/main/ttvstore-3.0.apk" },
 ]
